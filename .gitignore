@@ -104,3 +104,4 @@ ENV/
 .mypy_cache/
 scrumboard/__pycache__/admin.cpython-36.pyc
 djangular/__pycache__/urls.cpython-36.pyc
+djangular/__pycache__/urls.cpython-36.pyc

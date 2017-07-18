@@ -15,7 +15,7 @@
         };
 
         $scope.data = [];
-        $http.get('/scrumboard/lists').then(
+        $http.get('/scrumboard/list').then(
             function(response){
                 $scope.data = response.data;
             }
